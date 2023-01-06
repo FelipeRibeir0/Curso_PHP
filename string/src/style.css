@@ -1,0 +1,12 @@
+header{
+    text-align: center;
+}
+body{
+    background: linear-gradient(to right, rgba(17, 0, 255, 0.5), rgba(251, 255, 0, 0.5));
+}
+label{
+    font-size: 25px;
+}
+input{
+    font-size: 20px;
+}
