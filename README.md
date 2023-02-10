@@ -4,6 +4,6 @@ Publicarei aqui os códigos que estou fazendo para praticar o que vou aprender n
 
 <a href="https://www.freepnglogos.com/pics/php-logo"><img src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" width="200" alt="php logo, php elephant logo"/></a>
 
-1 - Praticando o uso de funções de Strings e vendo como se usa as Expressões Regulares (RegEx).
-2 - Usando Arrays multidimensionais e HTTP Methods
-3 - Usando If/Else, Arrays, POST e Array Methods
+1 - Praticando o uso de funções de Strings e vendo como se usa as Expressões Regulares (RegEx).<br>
+2 - Usando Arrays multidimensionais e HTTP Methods<br>
+3 - Usando If/Else, Arrays, POST e Array Methods<br>
